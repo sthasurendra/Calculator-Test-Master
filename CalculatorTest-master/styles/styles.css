@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+.Orbitron {
+    font-family: 'Orbitron', sans-serif;
+}
+.result {
+    min-height: 5vh;
+    height: 50px;
+    width: 100%;
+    background: #3b3b3b;
+    color: white;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 4%;
+}
+
+h1{
+    background: rgba(255,255,255,0.6);
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+.icon{
+    transform: scale(2);
+    margin: 1rem;
+}
+
+.content{
+    padding: 10%;
+    text-align: center;
+    min-width: 200px;
+    border-radius: 12px;
+    background: rgba(255,255,255,0.6);
+       
+}
